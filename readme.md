@@ -10,11 +10,11 @@ Este ejemplo ha sido programado en 4 horas mientras charlábamos y comentábamos
 ## Uso 🚀
 ¡Mira el código, modifícalo y disfruta!
 
-
+## URL para ver el resultado
+Para ver proyecto en directo puedes verlo aquí [https://eduardofierropro.github.io/TwitterRap/](https://eduardofierropro.github.io/TwitterRap/)
 
 ## Vídeos relacionados en Youtube 🛠️
 * [https://www.youtube.com/watch?v=NhSlsFV86Z8](https://www.youtube.com/watch?v=NhSlsFV86Z8)
-
 
 
 ## Autor ✒️
