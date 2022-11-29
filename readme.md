@@ -61,4 +61,4 @@ Hemos copiado la web de Twitter junto a metodología BEMCSS porque nos apetecía
 ## 📄 Licencia 
 
 MIT Public License v3.0
-No puede usarse comencialmente
+No puede usarse comercialmente
